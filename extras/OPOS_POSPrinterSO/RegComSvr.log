@@ -1,0 +1,19 @@
+
+############################################################
+
+2023/02/01 11:55:38  RegComSvr 1.3 [3/2008 crm]
+
+File: Common\OPOS_Constants.dll
+ ** Success: File registered.
+
+File: Common\OPOS_Printer_SO.dll
+  * Registering to HKLM.
+ ** Success: File registered.
+
+File: Common\OPOSCashDrawer.ocx
+  * Registering to HKLM.
+ ** Success: File registered.
+
+File: Common\OPOSPOSPrinter.ocx
+  * Registering to HKLM.
+ ** Success: File registered.

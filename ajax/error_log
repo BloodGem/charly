@@ -1,0 +1,520 @@
+[11-Oct-2022 18:53:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/emsys163/interrefa.emsystem.xyz/controladores/compras.controlador.php on line 138
+[11-Oct-2022 18:53:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/emsys163/interrefa.emsystem.xyz/controladores/compras.controlador.php on line 138
+[11-Oct-2022 18:53:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/emsys163/interrefa.emsystem.xyz/controladores/compras.controlador.php on line 138
+[10-Jul-2023 05:34:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/emsys163/interrefa.emsystem.xyz/modelos/ventas.modelo.php:139
+Stack trace:
+#0 /home/emsys163/interrefa.emsystem.xyz/controladores/ventas.controlador.php(38): ModeloVentas::mdlMostrarVentaCobro('')
+#1 /home/emsys163/interrefa.emsystem.xyz/ajax/cobro.ajax.php(19): ControladorVentas::ctrMostrarVentaCobro('')
+#2 /home/emsys163/interrefa.emsystem.xyz/ajax/cobro.ajax.php(44): AjaxCobro->ajaxMostrarVentaCobro()
+#3 {main}
+  thrown in /home/emsys163/interrefa.emsystem.xyz/modelos/ventas.modelo.php on line 139
+[10-Jul-2023 05:44:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/emsys163/interrefa.emsystem.xyz/modelos/ventas.modelo.php:139
+Stack trace:
+#0 /home/emsys163/interrefa.emsystem.xyz/controladores/ventas.controlador.php(38): ModeloVentas::mdlMostrarVentaCobro('')
+#1 /home/emsys163/interrefa.emsystem.xyz/ajax/cobro.ajax.php(19): ControladorVentas::ctrMostrarVentaCobro('')
+#2 /home/emsys163/interrefa.emsystem.xyz/ajax/cobro.ajax.php(44): AjaxCobro->ajaxMostrarVentaCobro()
+#3 {main}
+  thrown in /home/emsys163/interrefa.emsystem.xyz/modelos/ventas.modelo.php on line 139
+[10-Jul-2023 05:44:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/emsys163/interrefa.emsystem.xyz/modelos/ventas.modelo.php:139
+Stack trace:
+#0 /home/emsys163/interrefa.emsystem.xyz/controladores/ventas.controlador.php(38): ModeloVentas::mdlMostrarVentaCobro('')
+#1 /home/emsys163/interrefa.emsystem.xyz/ajax/cobro.ajax.php(19): ControladorVentas::ctrMostrarVentaCobro('')
+#2 /home/emsys163/interrefa.emsystem.xyz/ajax/cobro.ajax.php(44): AjaxCobro->ajaxMostrarVentaCobro()
+#3 {main}
+  thrown in /home/emsys163/interrefa.emsystem.xyz/modelos/ventas.modelo.php on line 139
+[18-Jul-2023 03:32:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/emsys163/interrefa.emsystem.xyz/modelos/ventas.modelo.php:139
+Stack trace:
+#0 /home/emsys163/interrefa.emsystem.xyz/controladores/ventas.controlador.php(38): ModeloVentas::mdlMostrarVentaCobro('')
+#1 /home/emsys163/interrefa.emsystem.xyz/ajax/cobro.ajax.php(19): ControladorVentas::ctrMostrarVentaCobro('')
+#2 /home/emsys163/interrefa.emsystem.xyz/ajax/cobro.ajax.php(44): AjaxCobro->ajaxMostrarVentaCobro()
+#3 {main}
+  thrown in /home/emsys163/interrefa.emsystem.xyz/modelos/ventas.modelo.php on line 139
+[18-Jul-2023 03:32:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/emsys163/interrefa.emsystem.xyz/modelos/ventas.modelo.php:139
+Stack trace:
+#0 /home/emsys163/interrefa.emsystem.xyz/controladores/ventas.controlador.php(38): ModeloVentas::mdlMostrarVentaCobro('')
+#1 /home/emsys163/interrefa.emsystem.xyz/ajax/cobro.ajax.php(19): ControladorVentas::ctrMostrarVentaCobro('')
+#2 /home/emsys163/interrefa.emsystem.xyz/ajax/cobro.ajax.php(44): AjaxCobro->ajaxMostrarVentaCobro()
+#3 {main}
+  thrown in /home/emsys163/interrefa.emsystem.xyz/modelos/ventas.modelo.php on line 139
+[18-Jul-2023 03:32:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/emsys163/interrefa.emsystem.xyz/modelos/ventas.modelo.php:139
+Stack trace:
+#0 /home/emsys163/interrefa.emsystem.xyz/controladores/ventas.controlador.php(38): ModeloVentas::mdlMostrarVentaCobro('')
+#1 /home/emsys163/interrefa.emsystem.xyz/ajax/cobro.ajax.php(19): ControladorVentas::ctrMostrarVentaCobro('')
+#2 /home/emsys163/interrefa.emsystem.xyz/ajax/cobro.ajax.php(44): AjaxCobro->ajaxMostrarVentaCobro()
+#3 {main}
+  thrown in /home/emsys163/interrefa.emsystem.xyz/modelos/ventas.modelo.php on line 139
+[18-Jul-2023 03:32:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/emsys163/interrefa.emsystem.xyz/modelos/ventas.modelo.php:139
+Stack trace:
+#0 /home/emsys163/interrefa.emsystem.xyz/controladores/ventas.controlador.php(38): ModeloVentas::mdlMostrarVentaCobro('')
+#1 /home/emsys163/interrefa.emsystem.xyz/ajax/cobro.ajax.php(19): ControladorVentas::ctrMostrarVentaCobro('')
+#2 /home/emsys163/interrefa.emsystem.xyz/ajax/cobro.ajax.php(44): AjaxCobro->ajaxMostrarVentaCobro()
+#3 {main}
+  thrown in /home/emsys163/interrefa.emsystem.xyz/modelos/ventas.modelo.php on line 139
+[18-Jul-2023 05:06:14 UTC] PHP Parse error:  syntax error, unexpected '$fecha_hora' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home/emsys163/interrefa.emsystem.xyz/controladores/ventas.controlador.php on line 10
+[18-Jul-2023 05:06:19 UTC] PHP Parse error:  syntax error, unexpected '$fecha_hora' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home/emsys163/interrefa.emsystem.xyz/controladores/ventas.controlador.php on line 10
+[18-Jul-2023 05:07:15 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/emsys163/interrefa.emsystem.xyz/controladores/ventas.controlador.php on line 3
+[18-Jul-2023 05:07:32 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/emsys163/interrefa.emsystem.xyz/controladores/ventas.controlador.php on line 3
+[18-Jul-2023 05:08:42 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/emsys163/interrefa.emsystem.xyz/controladores/ventas.controlador.php on line 2
+[18-Jul-2023 05:10:27 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/emsys163/interrefa.emsystem.xyz/controladores/ventas.controlador.php on line 2
+[22-Jul-2023 22:37:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/emsys163/gaona.emsystem.xyz/modelos/usuarios.modelo.php:70
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/controladores/usuarios.controlador.php(177): ModeloUsuarios::mdlMostrarUsuario(NULL)
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/usuarios.ajax.php(53): ControladorUsuarios::ctrMostrarUsuarios('usuario', 'BloodGemG')
+#2 /home/emsys163/gaona.emsystem.xyz/ajax/usuarios.ajax.php(113): AjaxUsuarios->ajaxValidarUsuario()
+#3 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/modelos/usuarios.modelo.php on line 70
+[22-Jul-2023 22:37:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/emsys163/gaona.emsystem.xyz/modelos/usuarios.modelo.php:70
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/controladores/usuarios.controlador.php(177): ModeloUsuarios::mdlMostrarUsuario(NULL)
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/usuarios.ajax.php(53): ControladorUsuarios::ctrMostrarUsuarios('usuario', 'BloodGemG')
+#2 /home/emsys163/gaona.emsystem.xyz/ajax/usuarios.ajax.php(113): AjaxUsuarios->ajaxValidarUsuario()
+#3 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/modelos/usuarios.modelo.php on line 70
+[22-Jul-2023 22:37:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/emsys163/gaona.emsystem.xyz/modelos/usuarios.modelo.php:70
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/controladores/usuarios.controlador.php(177): ModeloUsuarios::mdlMostrarUsuario(NULL)
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/usuarios.ajax.php(53): ControladorUsuarios::ctrMostrarUsuarios('usuario', 'BloodGemG')
+#2 /home/emsys163/gaona.emsystem.xyz/ajax/usuarios.ajax.php(113): AjaxUsuarios->ajaxValidarUsuario()
+#3 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/modelos/usuarios.modelo.php on line 70
+[22-Jul-2023 22:37:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/emsys163/gaona.emsystem.xyz/modelos/usuarios.modelo.php:70
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/controladores/usuarios.controlador.php(177): ModeloUsuarios::mdlMostrarUsuario(NULL)
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/usuarios.ajax.php(53): ControladorUsuarios::ctrMostrarUsuarios('usuario', 'BloodGemG')
+#2 /home/emsys163/gaona.emsystem.xyz/ajax/usuarios.ajax.php(113): AjaxUsuarios->ajaxValidarUsuario()
+#3 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/modelos/usuarios.modelo.php on line 70
+[22-Jul-2023 22:38:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/emsys163/gaona.emsystem.xyz/modelos/usuarios.modelo.php:70
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/controladores/usuarios.controlador.php(177): ModeloUsuarios::mdlMostrarUsuario(NULL)
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/usuarios.ajax.php(53): ControladorUsuarios::ctrMostrarUsuarios('usuario', 'BloodGemG')
+#2 /home/emsys163/gaona.emsystem.xyz/ajax/usuarios.ajax.php(113): AjaxUsuarios->ajaxValidarUsuario()
+#3 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/modelos/usuarios.modelo.php on line 70
+[22-Jul-2023 22:38:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/emsys163/gaona.emsystem.xyz/modelos/usuarios.modelo.php:70
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/controladores/usuarios.controlador.php(177): ModeloUsuarios::mdlMostrarUsuario(NULL)
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/usuarios.ajax.php(53): ControladorUsuarios::ctrMostrarUsuarios('usuario', 'BloodGemG')
+#2 /home/emsys163/gaona.emsystem.xyz/ajax/usuarios.ajax.php(113): AjaxUsuarios->ajaxValidarUsuario()
+#3 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/modelos/usuarios.modelo.php on line 70
+[22-Jul-2023 22:52:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/emsys163/gaona.emsystem.xyz/modelos/usuarios.modelo.php:70
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/controladores/usuarios.controlador.php(177): ModeloUsuarios::mdlMostrarUsuario(NULL)
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/usuarios.ajax.php(53): ControladorUsuarios::ctrMostrarUsuarios('usuario', 'BloodGemG')
+#2 /home/emsys163/gaona.emsystem.xyz/ajax/usuarios.ajax.php(113): AjaxUsuarios->ajaxValidarUsuario()
+#3 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/modelos/usuarios.modelo.php on line 70
+[22-Jul-2023 22:52:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/emsys163/gaona.emsystem.xyz/modelos/usuarios.modelo.php:70
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/controladores/usuarios.controlador.php(177): ModeloUsuarios::mdlMostrarUsuario(NULL)
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/usuarios.ajax.php(53): ControladorUsuarios::ctrMostrarUsuarios('usuario', 'BloodGemG')
+#2 /home/emsys163/gaona.emsystem.xyz/ajax/usuarios.ajax.php(113): AjaxUsuarios->ajaxValidarUsuario()
+#3 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/modelos/usuarios.modelo.php on line 70
+[22-Jul-2023 22:53:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/emsys163/gaona.emsystem.xyz/modelos/usuarios.modelo.php:70
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/controladores/usuarios.controlador.php(177): ModeloUsuarios::mdlMostrarUsuario(NULL)
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/usuarios.ajax.php(53): ControladorUsuarios::ctrMostrarUsuarios('usuario', 'BloodGemG2')
+#2 /home/emsys163/gaona.emsystem.xyz/ajax/usuarios.ajax.php(113): AjaxUsuarios->ajaxValidarUsuario()
+#3 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/modelos/usuarios.modelo.php on line 70
+[24-Jul-2023 07:47:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php:11
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(18): ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal('1')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(32): AjaxExistenciasSucursales->ajaxEditarProducto()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php on line 11
+[24-Jul-2023 07:47:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php:11
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(18): ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal('1')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(32): AjaxExistenciasSucursales->ajaxEditarProducto()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php on line 11
+[24-Jul-2023 07:47:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php:11
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(18): ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal('1')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(32): AjaxExistenciasSucursales->ajaxEditarProducto()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php on line 11
+[24-Jul-2023 07:50:15 UTC] PHP Parse error:  syntax error, unexpected '$respuesta' (T_VARIABLE) in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php on line 13
+[24-Jul-2023 07:50:18 UTC] PHP Parse error:  syntax error, unexpected '$respuesta' (T_VARIABLE) in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php on line 13
+[24-Jul-2023 07:50:21 UTC] PHP Parse error:  syntax error, unexpected '$respuesta' (T_VARIABLE) in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php on line 13
+[24-Jul-2023 07:52:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php:11
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(18): ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal('1')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(32): AjaxExistenciasSucursales->ajaxEditarProducto()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php on line 11
+[24-Jul-2023 07:54:05 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php:11
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(18): ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal('1')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(32): AjaxExistenciasSucursales->ajaxEditarProducto()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php on line 11
+[24-Jul-2023 07:54:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php:11
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(18): ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal('1')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(32): AjaxExistenciasSucursales->ajaxEditarProducto()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php on line 11
+[24-Jul-2023 07:55:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php:11
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(18): ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal('1')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(32): AjaxExistenciasSucursales->ajaxEditarProducto()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php on line 11
+[24-Jul-2023 07:55:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php:11
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(18): ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal('1')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(32): AjaxExistenciasSucursales->ajaxEditarProducto()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php on line 11
+[24-Jul-2023 07:58:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php:11
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(18): ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal('1')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(32): AjaxExistenciasSucursales->ajaxEditarProducto()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php on line 11
+[24-Jul-2023 07:59:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php:11
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(18): ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal('1')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(32): AjaxExistenciasSucursales->ajaxEditarProducto()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php on line 11
+[24-Jul-2023 08:00:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php:11
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(18): ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal('1')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(32): AjaxExistenciasSucursales->ajaxEditarProducto()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php on line 11
+[24-Jul-2023 08:00:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php:11
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(18): ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal('1')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(32): AjaxExistenciasSucursales->ajaxEditarProducto()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php on line 11
+[25-Jul-2023 22:08:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal() in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php:18
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(43): AjaxExistenciasSucursales->ajaxEditarProducto()
+#1 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php on line 18
+[25-Jul-2023 22:09:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal() in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php:20
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(45): AjaxExistenciasSucursales->ajaxEditarProducto()
+#1 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php on line 20
+[25-Jul-2023 22:13:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal() in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php:20
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(45): AjaxExistenciasSucursales->ajaxEditarProducto()
+#1 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php on line 20
+[25-Jul-2023 22:15:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal() in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php:20
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(45): AjaxExistenciasSucursales->ajaxEditarProducto()
+#1 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php on line 20
+[25-Jul-2023 22:18:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal() in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php:20
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(45): AjaxExistenciasSucursales->ajaxEditarProducto()
+#1 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php on line 20
+[25-Jul-2023 22:19:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal() in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php:20
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(45): AjaxExistenciasSucursales->ajaxEditarProducto()
+#1 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php on line 20
+[25-Jul-2023 22:30:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal() in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php:20
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(45): AjaxExistenciasSucursales->ajaxEditarProducto()
+#1 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php on line 20
+[25-Jul-2023 22:31:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal() in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php:20
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(45): AjaxExistenciasSucursales->ajaxEditarProducto()
+#1 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php on line 20
+[25-Jul-2023 22:33:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal() in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php:20
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(45): AjaxExistenciasSucursales->ajaxEditarProducto()
+#1 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php on line 20
+[25-Jul-2023 22:36:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal() in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php:20
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(45): AjaxExistenciasSucursales->ajaxEditarProducto()
+#1 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php on line 20
+[26-Jul-2023 01:46:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal() in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php:20
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(45): AjaxExistenciasSucursales->ajaxEditarProducto()
+#1 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php on line 20
+[15-Aug-2023 20:28:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal() in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php:20
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(45): AjaxExistenciasSucursales->ajaxEditarProducto()
+#1 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php on line 20
+[15-Aug-2023 20:29:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ControladorExistenciasSucursales::ctrMostrarProductoExistenciaSucursal() in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php:20
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(45): AjaxExistenciasSucursales->ajaxEditarProducto()
+#1 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php on line 20
+[15-Aug-2023 20:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ModeloExistenciasSucursales::mdlMostrarProductoES() in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php:15
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(20): ControladorExistenciasSucursales::ctrMostrarProductoES('1')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(45): AjaxExistenciasSucursales->ajaxEditarProducto()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php on line 15
+[15-Aug-2023 20:41:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ModeloExistenciasSucursales::mdlMostrarProductoES() in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php:15
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(20): ControladorExistenciasSucursales::ctrMostrarProductoES('1')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(45): AjaxExistenciasSucursales->ajaxEditarProducto()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php on line 15
+[15-Aug-2023 20:46:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/emsys163/gaona.emsystem.xyz/modelos/usuarios.modelo.php:69
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php(11): ModeloUsuarios::mdlMostrarUsuario(NULL)
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(20): ControladorExistenciasSucursales::ctrMostrarProductoES('1')
+#2 /home/emsys163/gaona.emsystem.xyz/ajax/existencias-sucursales.ajax.php(45): AjaxExistenciasSucursales->ajaxEditarProducto()
+#3 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/modelos/usuarios.modelo.php on line 69
+[16-Aug-2023 04:15:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:39
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/cobro.ajax.php(19): ControladorVentas::ctrMostrarVentaCobro('66')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/cobro.ajax.php(44): AjaxCobro->ajaxMostrarVentaCobro()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 39
+[16-Aug-2023 04:15:55 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:39
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/cobro.ajax.php(19): ControladorVentas::ctrMostrarVentaCobro('66')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/cobro.ajax.php(44): AjaxCobro->ajaxMostrarVentaCobro()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 39
+[16-Aug-2023 04:17:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:39
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/cobro.ajax.php(19): ControladorVentas::ctrMostrarVentaCobro('66')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/cobro.ajax.php(44): AjaxCobro->ajaxMostrarVentaCobro()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 39
+[16-Aug-2023 04:17:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:39
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/cobro.ajax.php(19): ControladorVentas::ctrMostrarVentaCobro('66')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/cobro.ajax.php(44): AjaxCobro->ajaxMostrarVentaCobro()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 39
+[16-Aug-2023 04:17:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:39
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/cobro.ajax.php(19): ControladorVentas::ctrMostrarVentaCobro('66')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/cobro.ajax.php(44): AjaxCobro->ajaxMostrarVentaCobro()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 39
+[16-Aug-2023 04:17:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:39
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/cobro.ajax.php(19): ControladorVentas::ctrMostrarVentaCobro('66')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/cobro.ajax.php(44): AjaxCobro->ajaxMostrarVentaCobro()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 39
+[16-Aug-2023 04:17:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:39
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/cobro.ajax.php(19): ControladorVentas::ctrMostrarVentaCobro('66')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/cobro.ajax.php(44): AjaxCobro->ajaxMostrarVentaCobro()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 39
+[16-Aug-2023 04:17:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:39
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/cobro.ajax.php(19): ControladorVentas::ctrMostrarVentaCobro('65')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/cobro.ajax.php(44): AjaxCobro->ajaxMostrarVentaCobro()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 39
+[16-Aug-2023 04:17:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:39
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/cobro.ajax.php(19): ControladorVentas::ctrMostrarVentaCobro('65')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/cobro.ajax.php(44): AjaxCobro->ajaxMostrarVentaCobro()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 39
+[16-Aug-2023 17:16:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php:11
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/compras.ajax.php(25): ControladorExistenciasSucursales::ctrMostrarProductoES('88')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/compras.ajax.php(83): AjaxCompras->ajaxMostrarProducto()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php on line 11
+[16-Aug-2023 17:16:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php:11
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/compras.ajax.php(25): ControladorExistenciasSucursales::ctrMostrarProductoES('88')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/compras.ajax.php(83): AjaxCompras->ajaxMostrarProducto()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php on line 11
+[16-Aug-2023 17:17:05 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php:11
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/compras.ajax.php(25): ControladorExistenciasSucursales::ctrMostrarProductoES('87')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/compras.ajax.php(83): AjaxCompras->ajaxMostrarProducto()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php on line 11
+[16-Aug-2023 17:20:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php:11
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/compras.ajax.php(25): ControladorExistenciasSucursales::ctrMostrarProductoES('87')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/compras.ajax.php(83): AjaxCompras->ajaxMostrarProducto()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php on line 11
+[16-Aug-2023 17:20:14 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php:11
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/compras.ajax.php(25): ControladorExistenciasSucursales::ctrMostrarProductoES('88')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/compras.ajax.php(83): AjaxCompras->ajaxMostrarProducto()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php on line 11
+[16-Aug-2023 17:20:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php:11
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/compras.ajax.php(25): ControladorExistenciasSucursales::ctrMostrarProductoES('349')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/compras.ajax.php(83): AjaxCompras->ajaxMostrarProducto()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/existencias-sucursales.controlador.php on line 11
+[23-Aug-2023 19:25:45 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:50
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(112): ControladorVentas::ctrCancelarVenta('48')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(186): AjaxVentas->ajaxCancelarVenta()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 50
+[23-Aug-2023 19:29:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:50
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(114): ControladorVentas::ctrCancelarVenta('48')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(188): AjaxVentas->ajaxCancelarVenta()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 50
+[23-Aug-2023 19:39:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:50
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(115): ControladorVentas::ctrCancelarVenta('48')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(189): AjaxVentas->ajaxCancelarVenta()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 50
+[23-Aug-2023 19:40:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:50
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(115): ControladorVentas::ctrCancelarVenta('48')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(189): AjaxVentas->ajaxCancelarVenta()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 50
+[23-Aug-2023 19:41:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:50
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(115): ControladorVentas::ctrCancelarVenta('48')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(189): AjaxVentas->ajaxCancelarVenta()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 50
+[23-Aug-2023 19:46:55 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:50
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(115): ControladorVentas::ctrCancelarVenta('48')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(189): AjaxVentas->ajaxCancelarVenta()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 50
+[23-Aug-2023 19:47:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:50
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(115): ControladorVentas::ctrCancelarVenta('48')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(189): AjaxVentas->ajaxCancelarVenta()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 50
+[23-Aug-2023 19:47:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:50
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(115): ControladorVentas::ctrCancelarVenta('48')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(189): AjaxVentas->ajaxCancelarVenta()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 50
+[23-Aug-2023 19:54:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:50
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(115): ControladorVentas::ctrCancelarVenta('48')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(189): AjaxVentas->ajaxCancelarVenta()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 50
+[23-Aug-2023 19:56:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:50
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(115): ControladorVentas::ctrCancelarVenta('48')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(189): AjaxVentas->ajaxCancelarVenta()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 50
+[23-Aug-2023 19:59:56 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:50
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(115): ControladorVentas::ctrCancelarVenta('48')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(189): AjaxVentas->ajaxCancelarVenta()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 50
+[23-Aug-2023 20:00:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:50
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(115): ControladorVentas::ctrCancelarVenta('48')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(189): AjaxVentas->ajaxCancelarVenta()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 50
+[23-Aug-2023 20:01:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:50
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(115): ControladorVentas::ctrCancelarVenta('48')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(189): AjaxVentas->ajaxCancelarVenta()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 50
+[23-Aug-2023 20:04:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:50
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(115): ControladorVentas::ctrCancelarVenta('48')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(189): AjaxVentas->ajaxCancelarVenta()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 50
+[23-Aug-2023 20:11:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:50
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(115): ControladorVentas::ctrCancelarVenta('48')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(189): AjaxVentas->ajaxCancelarVenta()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 50
+[23-Aug-2023 20:14:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:50
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(116): ControladorVentas::ctrCancelarVenta('48')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(190): AjaxVentas->ajaxCancelarVenta()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 50
+[23-Aug-2023 20:16:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:50
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(116): ControladorVentas::ctrCancelarVenta('48')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(190): AjaxVentas->ajaxCancelarVenta()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 50
+[23-Aug-2023 20:19:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:50
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(116): ControladorVentas::ctrCancelarVenta('48')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(190): AjaxVentas->ajaxCancelarVenta()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 50
+[23-Aug-2023 20:25:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:50
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(116): ControladorVentas::ctrCancelarVenta('48')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(190): AjaxVentas->ajaxCancelarVenta()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 50
+[23-Aug-2023 20:26:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:50
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(116): ControladorVentas::ctrCancelarVenta('48')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(190): AjaxVentas->ajaxCancelarVenta()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 50
+[23-Aug-2023 20:27:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloUsuarios' not found in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php:50
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(116): ControladorVentas::ctrCancelarVenta('48')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php(190): AjaxVentas->ajaxCancelarVenta()
+#2 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php on line 50
+[30-Aug-2023 19:52:50 UTC] PHP Fatal error:  Cannot redeclare AjaxVentas::$id_producto in /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php on line 42
+[30-Aug-2023 19:54:04 UTC] PHP Fatal error:  Cannot redeclare AjaxVentas::ajaxSolicitarProducto() in /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php on line 70
+[30-Aug-2023 23:28:02 UTC] PHP Fatal error:  Cannot redeclare AjaxVentas::$id_producto in /home/emsys163/gaona.emsystem.xyz/ajax/ventas.ajax.php on line 44
+[01-Sep-2023 19:27:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/emsys163/gaona.emsystem.xyz/modelos/ventas.modelo.php:167
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php(360): ModeloVentas::mdlMostrarVentaCobro('', '1')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/cobro.ajax.php(20): ControladorVentas::ctrMostrarVentaCobro('')
+#2 /home/emsys163/gaona.emsystem.xyz/ajax/cobro.ajax.php(45): AjaxCobro->ajaxMostrarVentaCobro()
+#3 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/modelos/ventas.modelo.php on line 167
+[01-Sep-2023 19:27:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/emsys163/gaona.emsystem.xyz/modelos/ventas.modelo.php:167
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php(360): ModeloVentas::mdlMostrarVentaCobro('', '1')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/cobro.ajax.php(20): ControladorVentas::ctrMostrarVentaCobro('')
+#2 /home/emsys163/gaona.emsystem.xyz/ajax/cobro.ajax.php(45): AjaxCobro->ajaxMostrarVentaCobro()
+#3 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/modelos/ventas.modelo.php on line 167
+[19-Sep-2023 03:37:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/emsys163/gaona.emsystem.xyz/modelos/ventas.modelo.php:167
+Stack trace:
+#0 /home/emsys163/gaona.emsystem.xyz/controladores/ventas.controlador.php(473): ModeloVentas::mdlMostrarVentaCobro('', '1')
+#1 /home/emsys163/gaona.emsystem.xyz/ajax/cobro.ajax.php(20): ControladorVentas::ctrMostrarVentaCobro('')
+#2 /home/emsys163/gaona.emsystem.xyz/ajax/cobro.ajax.php(45): AjaxCobro->ajaxMostrarVentaCobro()
+#3 {main}
+  thrown in /home/emsys163/gaona.emsystem.xyz/modelos/ventas.modelo.php on line 167

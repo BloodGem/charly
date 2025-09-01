@@ -1,0 +1,1 @@
+setTimeout(function() { window.location = "prueba2"; }, 5000);
