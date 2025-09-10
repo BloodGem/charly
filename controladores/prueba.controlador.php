@@ -254,7 +254,7 @@ class ControladorVentas{
 
 				$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-				//$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.png", false);
+				//$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.png", false);
 
 				//$printer -> bitImage($logo);
 
@@ -431,7 +431,7 @@ class ControladorVentas{
 
 				$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-				//$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.png", false);
+				//$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.png", false);
 
 				//$printer -> bitImage($logo);
 
@@ -773,7 +773,7 @@ class ControladorVentas{
 
 						$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-						//$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.png", false);
+						//$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.png", false);
 
 						//$printer -> bitImage($logo);
 
@@ -864,7 +864,7 @@ class ControladorVentas{
 
 								$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-								//$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.png", false);
+								//$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.png", false);
 
 								//$printer -> bitImage($logo);
 
@@ -1002,7 +1002,7 @@ class ControladorVentas{
 
 										$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-										//$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.png", false);
+										//$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.png", false);
 
 										//$printer -> bitImage($logo);
 
@@ -1132,7 +1132,7 @@ class ControladorVentas{
 
 										$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-										//$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.png", false);
+										//$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.png", false);
 
 										//$printer -> bitImage($logo);
 
@@ -2236,7 +2236,7 @@ class ControladorVentas{
 
 						$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-						//$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.png", false);
+						//$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.png", false);
 
 						//$printer -> bitImage($logo);
 
@@ -2316,7 +2316,7 @@ class ControladorVentas{
 
 						$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-						//$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.png", false);
+						//$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.png", false);
 
 						//$printer -> bitImage($logo);
 
@@ -2900,7 +2900,7 @@ class ControladorVentas{
 
 										$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-										//$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.png", false);
+										//$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.png", false);
 
 										//$printer -> bitImage($logo);
 
@@ -3180,7 +3180,7 @@ class ControladorVentas{
 
 										$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-										//$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.png", false);
+										//$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.png", false);
 
 										//$printer -> bitImage($logo);
 
@@ -3351,7 +3351,7 @@ class ControladorVentas{
 
 											$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-											//$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.png", false);
+											//$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.png", false);
 
 											//$printer -> bitImage($logo);
 
@@ -3492,7 +3492,7 @@ class ControladorVentas{
 
 											$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-											//$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.png", false);
+											//$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.png", false);
 
 											//$printer -> bitImage($logo);
 
@@ -3697,7 +3697,7 @@ class ControladorVentas{
 
 														$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-														//$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.png", false);
+														//$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.png", false);
 
 														//$printer -> bitImage($logo);
 
@@ -3842,7 +3842,7 @@ class ControladorVentas{
 
 														$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-														//$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.png", false);
+														//$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.png", false);
 
 														//$printer -> bitImage($logo);
 

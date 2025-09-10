@@ -150,12 +150,12 @@ $datos['cfdi']='SDK2/timbrados/globales/FG-'.$id_factura_global.'.xml';
 $ruta = "FG-".$id_factura_global;
 
 // Credenciales de Timbrado
-/*$datos['PAC']['usuario'] = 'DEMO700101XXX';
+$datos['PAC']['usuario'] = 'DEMO700101XXX';
 $datos['PAC']['pass'] = 'DEMO700101XXX';
-$datos['PAC']['produccion'] = 'NO';*/
-$datos['PAC']['usuario'] = 'BAU250609Q85';
+$datos['PAC']['produccion'] = 'NO';
+/*$datos['PAC']['usuario'] = 'BAU250609Q85';
 $datos['PAC']['pass'] = 'GU3RR3R0';
-$datos['PAC']['produccion'] = 'SI';
+$datos['PAC']['produccion'] = 'SI';*/
 // Rutas y clave de los CSD
 $datos['conf']['cer'] = $traerSucursal['ccer'];
 $datos['conf']['key'] = $traerSucursal['ckey'];
@@ -215,8 +215,8 @@ $datos['factura']['tipocomprobante'] = 'I';
 $datos['factura']['total'] = $total_encabezado;
 $datos['factura']['Exportacion'] = '01';
 // Datos del Emisor
-$datos['emisor']['rfc'] = $traerSucursal['rfc']; //RFC DE PRUEBA
-$datos['emisor']['nombre'] = $traerSucursal['nombre'];  // EMPRESA DE PRUEBA
+$datos['emisor']['rfc'] = $traerSucursal['rfc']; 
+$datos['emisor']['nombre'] = $traerSucursal['nombre'];
 $datos['emisor']['RegimenFiscal'] = $traerSucursal['id_regimen'];
 // Datos del receptor
 $datos['receptor']['rfc'] = $traerCliente['rfc'];

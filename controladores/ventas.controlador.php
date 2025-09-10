@@ -261,7 +261,7 @@ class ControladorVentas{
 
 				$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-				$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/ticket.png", false);
+				$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/ticket.png", false);
 
 				$printer -> bitImage($logo);
 
@@ -463,7 +463,7 @@ class ControladorVentas{
 
 				$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-				$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/ticket.png", false);
+				$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/ticket.png", false);
 
 				$printer -> bitImage($logo);
 
@@ -818,7 +818,7 @@ class ControladorVentas{
 
 						$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-						$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/ticket.png", false);
+						$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/ticket.png", false);
 
 						$printer -> bitImage($logo);
 
@@ -909,7 +909,7 @@ class ControladorVentas{
 
 								$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-								$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/ticket.png", false);
+								$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/ticket.png", false);
 
 								$printer -> bitImage($logo);
 
@@ -1049,7 +1049,7 @@ class ControladorVentas{
 
 										$printer -> setTextSize(1, 1);
 
-										$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/ticket.png", false);
+										$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/ticket.png", false);
 
 										$printer -> bitImage($logo);
 
@@ -1171,7 +1171,7 @@ class ControladorVentas{
 
 										$printer -> setTextSize(1, 1);
 
-										$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/ticket.png", false);
+										$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/ticket.png", false);
 
 										$printer -> bitImage($logo);
 
@@ -2298,7 +2298,7 @@ class ControladorVentas{
 
 					$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-						$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/ticket.png", false);
+						$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/ticket.png", false);
 
 						$printer -> bitImage($logo);
 
@@ -2815,7 +2815,7 @@ class ControladorVentas{
 
 							$printer -> setTextSize(1, 1);
 
-							$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/ticket.png", false);
+							$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/ticket.png", false);
 
 							$printer -> bitImage($logo);
 
@@ -2941,7 +2941,7 @@ class ControladorVentas{
 
 								$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-							$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/ticket.png", false);
+							$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/ticket.png", false);
 
 							$printer -> bitImage($logo);
 
@@ -3798,7 +3798,7 @@ class ControladorVentas{
 				'token' => 'jp523ak4ln983i1q',
 				'to' => '+52'.$celular,
 				'filename' => "FC-".$id_venta.".pdf",
-				'document' => "http://guerrero.dyndns.ws:6066/FC-".$id_venta.".pdf",
+				'document' => "http://charly.dyndns.ws:6066/FC-".$id_venta.".pdf",
 				'caption' => 'Hola, aquí tienes tu factura en PDF',
 				'nocache' => '1'
 			);
@@ -3832,7 +3832,7 @@ class ControladorVentas{
 				'token' => 'jp523ak4ln983i1q',
 				'to' => '+52'.$celular,
 				'filename' => "FC-".$id_venta.".xml",
-				'document' => "http://guerrero.dyndns.ws:6066/FC-".$id_venta.".xml",
+				'document' => "http://charly.dyndns.ws:6066/FC-".$id_venta.".xml",
 				'caption' => 'Hola, aquí tienes tu factura en XML',
 				'nocache' => '1'
 			);

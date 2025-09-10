@@ -5,7 +5,7 @@ class Conexion{
 	static public function conectar(){
 
 		$host = "localhost";
-		$database = "guerrero";
+		$database = "charly";
 		$user	= "root";
 		$passwd	= "";
 

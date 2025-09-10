@@ -2,7 +2,7 @@
 <div id="fondo" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('vistas/img/perfil_empresa/logo.jpg');"></div>
 <div class="login-box">
   <div class="login-logo">
-    <img src="vistas/img/perfil_empresa/logo.jpg" width="350px">
+    <img src="vistas/img/perfil_empresa/logo.jpg" width="300px">
   </div>
   <!-- /.login-logo -->
   <div class="card">

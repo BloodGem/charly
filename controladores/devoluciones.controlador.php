@@ -159,7 +159,7 @@ class ControladorDevoluciones{
 
 						$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-						$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/ticket.png", false);
+						$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/ticket.png", false);
 
 						$printer -> bitImage($logo);
 
@@ -418,7 +418,7 @@ class ControladorDevoluciones{
 
 				$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-				$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/ticket.png", false);
+				$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/ticket.png", false);
 
 				$printer -> bitImage($logo);
 
@@ -774,7 +774,7 @@ class ControladorDevoluciones{
 
 				$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-				$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/ticket.png", false);
+				$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/ticket.png", false);
 
 				$printer -> bitImage($logo);
 
@@ -1031,7 +1031,7 @@ class ControladorDevoluciones{
 
 										$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-										$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/ticket.png", false);
+										$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/ticket.png", false);
 
 										$printer -> bitImage($logo);
 
@@ -1153,7 +1153,7 @@ class ControladorDevoluciones{
 
 										$printer -> setJustification(Printer::JUSTIFY_CENTER);
 
-										$logo = EscposImage::load("C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/ticket.png", false);
+										$logo = EscposImage::load("C:/xampp/htdocs/charly/vistas/img/perfil_empresa/ticket.png", false);
 
 										$printer -> bitImage($logo);
 

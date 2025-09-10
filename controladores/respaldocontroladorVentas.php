@@ -263,7 +263,7 @@ class ControladorVentas{
 					const conector = new ConectorPluginV3(URLPlugin, licencia);
 					conector.Iniciar();
 					conector.EstablecerAlineacion(1);
-					conector.CargarImagenLocalEImprimir('C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.jpg', ConectorPluginV3.TAMAÑO_IMAGEN_NORMAL, 400);
+					conector.CargarImagenLocalEImprimir('C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.jpg', ConectorPluginV3.TAMAÑO_IMAGEN_NORMAL, 400);
 					conector.Feed(1);
 					conector.EscribirTexto('".$traerSucursal['nombre']."');
 					conector.Feed(1);
@@ -403,7 +403,7 @@ class ControladorVentas{
 					const conector = new ConectorPluginV3(URLPlugin, licencia);
 					conector.Iniciar();
 					conector.EstablecerAlineacion(1);
-					conector.CargarImagenLocalEImprimir('C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.jpg', ConectorPluginV3.TAMAÑO_IMAGEN_NORMAL, 400);
+					conector.CargarImagenLocalEImprimir('C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.jpg', ConectorPluginV3.TAMAÑO_IMAGEN_NORMAL, 400);
 					conector.Feed(1);
 					conector.EscribirTexto('".$traerSucursal['nombre']."');
 					conector.Feed(1);
@@ -822,7 +822,7 @@ class ControladorVentas{
 											const conector = new ConectorPluginV3(URLPlugin, licencia);
 											conector.Iniciar();
 											conector.EstablecerAlineacion(1);
-											conector.CargarImagenLocalEImprimir('C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.jpg', ConectorPluginV3.TAMAÑO_IMAGEN_NORMAL, 400);
+											conector.CargarImagenLocalEImprimir('C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.jpg', ConectorPluginV3.TAMAÑO_IMAGEN_NORMAL, 400);
 											conector.Feed(1);
 											conector.EscribirTexto('".$traerSucursal['nombre']."');
 											conector.Feed(1);
@@ -929,7 +929,7 @@ class ControladorVentas{
 											const conector = new ConectorPluginV3(URLPlugin, licencia);
 											conector.Iniciar();
 											conector.EstablecerAlineacion(1);
-											conector.CargarImagenLocalEImprimir('C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.jpg', ConectorPluginV3.TAMAÑO_IMAGEN_NORMAL, 400);
+											conector.CargarImagenLocalEImprimir('C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.jpg', ConectorPluginV3.TAMAÑO_IMAGEN_NORMAL, 400);
 											conector.Feed(1);
 											conector.EscribirTexto('".$traerSucursal['nombre']."');
 											conector.Feed(1);
@@ -2513,7 +2513,7 @@ class ControladorVentas{
 									const conector = new ConectorPluginV3(URLPlugin, licencia);
 									conector.Iniciar();
 									conector.EstablecerAlineacion(1);
-									conector.CargarImagenLocalEImprimir('C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.jpg', ConectorPluginV3.TAMAÑO_IMAGEN_NORMAL, 400);
+									conector.CargarImagenLocalEImprimir('C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.jpg', ConectorPluginV3.TAMAÑO_IMAGEN_NORMAL, 400);
 									conector.Feed(1);
 									conector.EscribirTexto('".$nombre_sucursal."');
 									conector.Feed(1);
@@ -2667,7 +2667,7 @@ class ControladorVentas{
 									const conector = new ConectorPluginV3(URLPlugin, licencia);
 									conector.Iniciar();
 									conector.EstablecerAlineacion(1);
-									conector.CargarImagenLocalEImprimir('C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.jpg', ConectorPluginV3.TAMAÑO_IMAGEN_NORMAL, 400);
+									conector.CargarImagenLocalEImprimir('C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.jpg', ConectorPluginV3.TAMAÑO_IMAGEN_NORMAL, 400);
 									conector.Feed(1);
 									conector.EscribirTexto('".$nombre_sucursal."');
 									conector.Feed(1);
@@ -2832,7 +2832,7 @@ $response = curl_exec($curl);*/
 		const conector = new ConectorPluginV3(URLPlugin, licencia);
 		conector.Iniciar();
 		conector.EstablecerAlineacion(1);
-		conector.CargarImagenLocalEImprimir('C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.jpg', ConectorPluginV3.TAMAÑO_IMAGEN_NORMAL, 400);
+		conector.CargarImagenLocalEImprimir('C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.jpg', ConectorPluginV3.TAMAÑO_IMAGEN_NORMAL, 400);
 		conector.Feed(1);
 		conector.EscribirTexto('".$nombre_sucursal."');
 		conector.Feed(1);
@@ -2918,7 +2918,7 @@ $response = curl_exec($curl);*/
 		const conector = new ConectorPluginV3(URLPlugin, licencia);
 		conector.Iniciar();
 		conector.EstablecerAlineacion(1);
-		conector.CargarImagenLocalEImprimir('C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.jpg', ConectorPluginV3.TAMAÑO_IMAGEN_NORMAL, 400);
+		conector.CargarImagenLocalEImprimir('C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.jpg', ConectorPluginV3.TAMAÑO_IMAGEN_NORMAL, 400);
 		conector.Feed(1);
 		conector.EscribirTexto('".$nombre_sucursal."');
 		conector.Feed(1);
@@ -3068,7 +3068,7 @@ $response = curl_exec($curl);*/
 					const conector = new ConectorPluginV3(URLPlugin, licencia);
 					conector.Iniciar();
 					conector.EstablecerAlineacion(1);
-					conector.CargarImagenLocalEImprimir('C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.jpg', ConectorPluginV3.TAMAÑO_IMAGEN_NORMAL, 400);
+					conector.CargarImagenLocalEImprimir('C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.jpg', ConectorPluginV3.TAMAÑO_IMAGEN_NORMAL, 400);
 					conector.Feed(1);
 					conector.EscribirTexto('".$nombre_sucursal."');
 					conector.Feed(1);
@@ -3156,7 +3156,7 @@ $response = curl_exec($curl);*/
 					const conector = new ConectorPluginV3(URLPlugin, licencia);
 					conector.Iniciar();
 					conector.EstablecerAlineacion(1);
-					conector.CargarImagenLocalEImprimir('C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.jpg', ConectorPluginV3.TAMAÑO_IMAGEN_NORMAL, 400);
+					conector.CargarImagenLocalEImprimir('C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.jpg', ConectorPluginV3.TAMAÑO_IMAGEN_NORMAL, 400);
 					conector.Feed(1);
 					conector.EscribirTexto('".$nombre_sucursal."');
 					conector.Feed(1);
@@ -3547,7 +3547,7 @@ if(isset($_POST["cambiarDatosPagoVenta"])){
 													const conector = new ConectorPluginV3(URLPlugin, licencia);
 													conector.Iniciar();
 													conector.EstablecerAlineacion(1);
-													conector.CargarImagenLocalEImprimir('C:/xampp/htdocs/guerrero/vistas/img/perfil_empresa/logo.jpg', ConectorPluginV3.TAMAÑO_IMAGEN_NORMAL, 400);
+													conector.CargarImagenLocalEImprimir('C:/xampp/htdocs/charly/vistas/img/perfil_empresa/logo.jpg', ConectorPluginV3.TAMAÑO_IMAGEN_NORMAL, 400);
 													conector.Feed(1);
 													conector.EscribirTexto('".$traerSucursal['nombre']."');
 													conector.Feed(1);

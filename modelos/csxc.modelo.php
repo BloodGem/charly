@@ -154,13 +154,13 @@ class ModeloCsxc{
 		$datos['xml_debug']='SDK2/timbrados/pagos/debug_'.$nombre_documento.'.xml';
 
 		// Credenciales de Timbrado
-		/*$datos['PAC']['usuario'] = 'DEMO700101XXX';
+		$datos['PAC']['usuario'] = 'DEMO700101XXX';
 		$datos['PAC']['pass'] = 'DEMO700101XXX';
-		$datos['PAC']['produccion'] = 'NO';*/
+		$datos['PAC']['produccion'] = 'NO';
 
-		$datos['PAC']['usuario'] = 'BAU250609Q85';
+		/*$datos['PAC']['usuario'] = 'BAU250609Q85';
 		$datos['PAC']['pass'] = 'GU3RR3R0';
-		$datos['PAC']['produccion'] = 'SI';
+		$datos['PAC']['produccion'] = 'SI';*/
 
 		// Rutas y clave de los CSD
 		$datos['conf']['cer'] = $traerSucursal['ccer'];

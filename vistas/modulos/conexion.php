@@ -1,7 +1,7 @@
 <?php 
 //error_reporting(0);
         $host = "localhost";
-		$database = "guerrero";
+		$database = "charly";
 		$user	= "root";
 		$passwd	= "";
 		

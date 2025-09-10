@@ -438,12 +438,12 @@ class ModeloVentas{
 //$datos['xml_debug']='SDK2/timbrados/x'.$respuesta[0].'.xml';
 
 // Credenciales de Timbrado
-			/*$datos['PAC']['usuario'] = 'DEMO700101XXX';
+			$datos['PAC']['usuario'] = 'DEMO700101XXX';
 			$datos['PAC']['pass'] = 'DEMO700101XXX';
-			$datos['PAC']['produccion'] = 'NO';*/
-			$datos['PAC']['usuario'] = 'BAU250609Q85';
+			$datos['PAC']['produccion'] = 'NO';
+			/*$datos['PAC']['usuario'] = 'BAU250609Q85';
 			$datos['PAC']['pass'] = 'GU3RR3R0';
-			$datos['PAC']['produccion'] = 'SI';
+			$datos['PAC']['produccion'] = 'SI';*/
 
 // Rutas y clave de los CSD
 			$datos['conf']['cer'] = $traerSucursal['ccer'];
@@ -491,25 +491,22 @@ class ModeloVentas{
 			$datos['factura']['descuento'] = '0.00';
 			$datos['factura']['fecha_expedicion'] = date('Y-m-d\TH:i:s', time() - 3610);
 			$datos['factura']['folio'] = $traerVenta['folio'];
-$datos['factura']['forma_pago'] = $traerVenta['id_forma_pago'];//anuncia si va a ser pagado por efectivo, tarjeta, etc
-//$datos['factura']['LugarExpedicion'] = '04369';
+$datos['factura']['forma_pago'] = $traerVenta['id_forma_pago'];
 $datos['factura']['LugarExpedicion'] = $traerSucursal['codigo_postal'];
-$datos['factura']['metodo_pago'] = $traerVenta['id_metodo_pago'];//anuncia si va a ser por PUE o PPD
+$datos['factura']['metodo_pago'] = $traerVenta['id_metodo_pago'];
 $datos['factura']['moneda'] = 'MXN';
 $datos['factura']['serie'] = 'A';
 $datos['factura']['subtotal'] = $total_importe_encabezado;
 $datos['factura']['tipocambio'] = 1;
 $datos['factura']['tipocomprobante'] = 'I';
 $datos['factura']['total'] = $total_encabezado;
-//$datos['factura']['RegimenFiscal'] = '601';
 $datos['factura']['Exportacion'] = '01';
 
 
 // Datos del Emisor
-$datos['emisor']['rfc'] = $traerSucursal['rfc']; //RFC DE PRUEBA
-$datos['emisor']['nombre'] = $traerSucursal['nombre'];  // EMPRESA DE PRUEBA
+$datos['emisor']['rfc'] = $traerSucursal['rfc'];
+$datos['emisor']['nombre'] = $traerSucursal['nombre'];
 $datos['emisor']['RegimenFiscal'] = $traerSucursal['id_regimen'];
-//$datos['emisor']['FacAtrAdquirente'] = 'ACCEM SERVICIOS EMPRESARIALES SC';
 
 
 
